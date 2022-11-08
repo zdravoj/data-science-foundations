@@ -8,7 +8,7 @@ SOCR_MLB_height_weight_analysis.ipynb: A basic statistical analysis of the [SOCR
 Skills used - Web scraping (BeautifulSoup), EDA (pandas, matplotlib, seaborn), 1-sample t-test (SciPy)
 
 UCI_wine_quality.ipynb: Calculating feature importance and using anomaly detection, regression, and/or classification ML models to determine wine quality using the [UCI Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality).
-Skills used - EDA (pandas, matplotlib, seaborn) <br>
-*This analysis is incomplete. Basic EDA and outlier removal completed. Determining feature importance and multicollinearity in progress.*
+Skills used - EDA (pandas, matplotlib, seaborn), Model Selection (Scikit-learn)<br>
+*This analysis is incomplete. Currently in second iteration. EDA and train-test split completed. Model selection in progress.*
 
 requirements.txt: pip install list to run project files locally
