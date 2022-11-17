@@ -13,6 +13,6 @@ Skills used - EDA (pandas, matplotlib, seaborn), Model Selection (Scikit-learn)<
 
 kaggle_CC_fraud.ipynb: Leveraging neural networks to detect fraudulent transactions in the [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 Skills used - EDA (pandas, matplotlib)
-*This analysis is incomplete. Researching neural network use on imbalanced datasets.*
+*This analysis is incomplete. Currently in first iteration. EDA complete. Baseline modeling in progress.*
 
 requirements.txt: pip install list to run project files locally
