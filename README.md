@@ -9,7 +9,7 @@ Skills used - Web scraping (BeautifulSoup), EDA (pandas, matplotlib, seaborn), 1
 
 UCI_wine_quality.ipynb: Calculating feature importance and using anomaly detection, regression, and/or classification ML models to determine wine quality using the [UCI Wine Quality Dataset](https://archive.ics.uci.edu/ml/datasets/wine+quality).
 Skills used - EDA (pandas, matplotlib, seaborn), Model Selection (Scikit-learn, XGBoost)<br>
-*This analysis is incomplete. Beginning fifth iteration.*
+*This analysis is incomplete. Currently in fifth iteration. XGBClassifier tuning in progress.*
 
 kaggle_CC_fraud.ipynb: Leveraging neural networks to detect fraudulent transactions in the [Kaggle Credit Card Fraud Detection Dataset](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud).
 Skills used - EDA (pandas, matplotlib)
