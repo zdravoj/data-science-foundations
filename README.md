@@ -1,8 +1,12 @@
 # Data Science Foundations
 
-A set of projects to hone my understanding of data science and practice skills within the domain.
+A set of projects exploring and applying data science analyses and models.
 
 ## Files
+
+Supermarket_sales_analysis.ipynb: A statistical analysis of product sales at three different supermarket locations using the [Kaggle "Supermarket Sales" dataset](https://www.kaggle.com/datasets/aungpyaeap/supermarket-sales).
+Skills used - EDA (pandas)
+*This analysis is incomplete. Currently in EDA.*
 
 SOCR_MLB_height_weight_analysis.ipynb: A basic statistical analysis of the [SOCR Data MLB Heights & Weights Dataset](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data_MLB_HeightsWeights).
 Skills used - Web scraping (BeautifulSoup), EDA (pandas, matplotlib, seaborn), 1-sample t-test (SciPy)
